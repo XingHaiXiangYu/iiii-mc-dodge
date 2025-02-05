@@ -1,0 +1,8 @@
+dodge:
+  # 闪避距离
+  distance: 2.0
+  # 冷却时间(毫秒)
+  cooldown: 3000
+
+messages:
+  cooldown: "&3&l| &b闪避冷却中，还需要 {second} 秒."

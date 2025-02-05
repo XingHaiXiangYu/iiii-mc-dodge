@@ -1,0 +1,14 @@
+name: iiii-mc-dodge
+version: 1.0.0
+main: asia.iiiimc.dodge.Main
+api-version: 1.13
+commands:
+  iiii-mc-dodge:
+    aliases:
+      - dodge
+    description: 闪避插件主命令
+    usage: /dodge reload
+    permission: dodge.admin
+permissions:
+  dodge.admin:
+    default: op
